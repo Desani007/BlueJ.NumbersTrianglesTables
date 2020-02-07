@@ -46,7 +46,7 @@ public class TableUtilitiesTest {
 
 
     @Test
-    public void testGetSmallMultiplicationTable() {
+    public void testgetSmallMultiplicationTable() {
         String expected =
                         "  1 |  2 |  3 |  4 |  5 |\n" +
                         "  2 |  4 |  6 |  8 | 10 |\n" +
